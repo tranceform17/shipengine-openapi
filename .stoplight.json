@@ -1,5 +1,5 @@
 {
-  "exclude": [".gitattributes"],
+  "exclude": [".gitattributes",".gitignore"],
   "formats": {
     "openapi": {
       "rootDir": "reference",
